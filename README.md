@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AkashDhyani
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Xamarin and React Native
-- 💞️ I’m looking to collaborate on Xamarin Forms
+- 🌱 I am an experienced React Native developer with 5 years of experience.
+- 👨🏻‍💻 Led development of production apps serving thousands of users, improving performance by up to 30%, reducing release turnaround time by
+     40% using OTA.
+- 📝 Experienced in architecture design, performance optimization, and third-party SDK integrations.
 - 📫 How to reach me: akashdhyani97@gmail.com
 
 <!---
